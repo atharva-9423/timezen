@@ -9,7 +9,7 @@
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-💜-purple?style=flat-square)](https://github.com/atharva-9423)
 [![Built by](https://img.shields.io/badge/Built%20by-Team%20ZenSpace-FDCB6E?style=flat-square)](https://github.com/atharva-9423)
-[![License](https://img.shields.io/badge/License-MIT-00B894?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-Proprietary-FF6B6B?style=flat-square)](LICENSE)
 
 [🌟 Features](#-features) • [🎨 Design](#-design-philosophy) • [🚀 Tech Stack](#-tech-stack) • [📱 Screenshots](#-screenshots) • [👥 Team](#-team-zenspace)
 
@@ -278,7 +278,15 @@ We welcome contributions from students and developers! Here's how you can help:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is proprietary software. **All rights reserved.**
+
+© 2025 Atharva Phatangare & Team ZenSpace
+
+**Usage, modification, distribution, or forking of this code is strictly prohibited without explicit written permission from the author.**
+
+For licensing inquiries or permission requests, please contact [@atharva-9423](https://github.com/atharva-9423).
+
+See the [LICENSE](LICENSE) file for complete terms and conditions.
 
 ---
 
